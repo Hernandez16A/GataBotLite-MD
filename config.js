@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['2217004211', 'Ventas Hernandez', true], 
+['525643247823', 'WASON fx', true], 
 ['2217004211', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
 ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
